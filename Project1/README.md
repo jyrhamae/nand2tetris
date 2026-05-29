@@ -6,6 +6,7 @@ Each chip is tested and compared to the expected output.
 
 ## Chips Built
 ### Elementary Logic Gates
+*** To challenge myself, I decided to build all the elementary logic gates with NAND.
 - Not
 - And
 - Or
