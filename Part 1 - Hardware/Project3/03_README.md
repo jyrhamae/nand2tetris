@@ -1,4 +1,4 @@
-# Project 2 — Boolean Arithmetic
+# Project 3 — Memory
 
 ## Overview
 1–2 sentences on what this project is and what it produces.  
